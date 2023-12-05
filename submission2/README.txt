@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1J5rsgNsMh-DR0VHtWEk8YINV4UYczMoiIg1dgu969tw/edit?usp=sharing
 
 Paper title:
 Deep learning-based video quality enhancement for the new versatile video coding
