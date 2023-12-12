@@ -3,7 +3,6 @@ https://www.overleaf.com/read/vwmpmvwhncgh#dcdff0
 
 Link to unlisted YouTube video:
 
-
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/
 
