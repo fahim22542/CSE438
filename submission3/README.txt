@@ -4,7 +4,7 @@ https://www.overleaf.com/read/vwmpmvwhncgh#dcdff0
 Link to unlisted YouTube video:
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/
+https://docs.google.com/presentation/d/1B-Rcd-xVHnXG-TimW1bhezMqXe51DzWcZYeOjj-hWZo/edit?usp=sharing
 
 Project title:
 A comparative study on generating captions from images in Bengali through an encoder-decoder network using a CNN-RNN/LSTM model
